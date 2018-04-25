@@ -1,3 +1,9 @@
+# shields.io
+![commit activity](https://img.shields.io/github/commit-activity/y/kurikei/github-app-sandbox.svg)
+![top language](https://img.shields.io/github/languages/top/kurikei/github-app-sandbox.svg)
+![license](https://img.shields.io/github/license/kurikei/github-app-sandbox.svg)
+
+
 # waffle.io
 [![Throughput Graph](https://graphs.waffle.io/kurikei/github-app-sandbox/throughput.svg)](https://waffle.io/kurikei/github-app-sandbox/metrics/throughput)
 
